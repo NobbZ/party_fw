@@ -1,0 +1,2 @@
+defmodule PartyFw do
+end
